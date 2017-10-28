@@ -1,7 +1,7 @@
 from Instragram import Instagram as f
 import time
 
-f.start_login_process("boskebarber", "125125bl")
+f.start_login_process("login", "password")
 
 start_time = time.clock()
 
